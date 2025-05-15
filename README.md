@@ -1,5 +1,5 @@
 # Driver-Drowsiness-detection-using-opencv
-      Drivers often feel very drowsy while continuously driving for long distances without taking
+   Drivers often feel very drowsy while continuously driving for long distances without taking
 breaks. Drowsiness is a major factor in increasing the chances for a vehicle to meet accidents
 . According to various studies, Number of accidents caused by drowsiness is much higher
 than the number of accidents caused by drunk driving. The number of accidents caused by
